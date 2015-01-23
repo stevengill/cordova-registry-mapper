@@ -1,6 +1,6 @@
 {
   "name": "cordova-registry-mapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Maps plugin ids to plugin names for fetching from npm",
   "main": "index.js",
   "repository": {
