@@ -12,7 +12,7 @@ module.exports = {
     'org.apache.cordova.geolocation':'cordova-plugin-geolocation',
     'org.apache.cordova.globalization':'cordova-plugin-globalization',
     'org.apache.cordova.inappbrowser':'cordova-plugin-inappbrowser',
-    'org.apache.cordova.media':'cordova-plugin-file-media',
+    'org.apache.cordova.media':'cordova-plugin-media',
     'org.apache.cordova.media-capture':'cordova-plugin-media-capture',
     'org.apache.cordova.network-information':'cordova-plugin-network-information',
     'org.apache.cordova.splashscreen':'cordova-plugin-splashscreen',
