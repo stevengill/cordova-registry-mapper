@@ -1,4 +1,4 @@
-module.exports = {
+var map = {
     'org.apache.cordova.battery-status':'cordova-plugin-battery-status',
     'org.apache.cordova.camera':'cordova-plugin-camera',    
     'org.apache.cordova.console':'cordova-plugin-console',
@@ -19,3 +19,12 @@ module.exports = {
     'org.apache.cordova.statusbar':'cordova-plugin-statusbar',
     'org.apache.cordova.vibration':'cordova-plugin-vibration'
 }
+
+module.exports.oldToNew = map;
+
+var reverseMap = {};
+Object.keys(map).forEach(function(elem){
+    reverseMap[map[elem]] = elem;
+})
+
+module.exports.newToOld = reverseMap; 
