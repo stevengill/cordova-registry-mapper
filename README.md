@@ -1,6 +1,6 @@
 #Cordova Registry Mapper
 
-This module is used to map Cordova plugin ids to package names.
+This module is used to map Cordova plugin ids to package names and vice versa.
 
 When Cordova users add plugins to their projects using ids
 (e.g. `cordova plugin add org.apache.cordova.device`),

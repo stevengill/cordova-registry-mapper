@@ -4,13 +4,19 @@
   "description": "Maps old plugin ids to new plugin names for fetching from npm",
   "main": "index.js",
   "repository": {
-    "type": "git", 
-    "url" : "https://github.com/stevengill/cordova-registry-mapper.git"
+    "type": "git",
+    "url": "https://github.com/stevengill/cordova-registry-mapper.git"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
   },
   "keywords": [
     "cordova",
     "plugins"
   ],
   "author": "Steve Gill",
-  "license": "Apache version 2.0"
+  "license": "Apache version 2.0",
+  "dependencies": {
+    "tape": "^3.5.0"
+  }
 }
