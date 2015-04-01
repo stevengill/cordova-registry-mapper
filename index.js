@@ -17,7 +17,8 @@ var map = {
     'org.apache.cordova.network-information':'cordova-plugin-network-information',
     'org.apache.cordova.splashscreen':'cordova-plugin-splashscreen',
     'org.apache.cordova.statusbar':'cordova-plugin-statusbar',
-    'org.apache.cordova.vibration':'cordova-plugin-vibration'
+    'org.apache.cordova.vibration':'cordova-plugin-vibration',
+    'org.apache.cordova.test-framework':'cordova-plugin-test-framework'
 }
 
 module.exports.oldToNew = map;
