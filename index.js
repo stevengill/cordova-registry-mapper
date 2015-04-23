@@ -20,7 +20,8 @@ var map = {
     'org.apache.cordova.vibration':'cordova-plugin-vibration',
     'org.apache.cordova.test-framework':'cordova-plugin-test-framework',
     'com.msopentech.websql' : 'cordova-plugin-websql',
-    'com.msopentech.indexeddb' : 'cordova-plugin-indexeddb'
+    'com.msopentech.indexeddb' : 'cordova-plugin-indexeddb',
+    'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability'
 }
 
 module.exports.oldToNew = map;
