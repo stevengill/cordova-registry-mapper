@@ -1,6 +1,6 @@
 var map = {
     'org.apache.cordova.battery-status':'cordova-plugin-battery-status',
-    'org.apache.cordova.camera':'cordova-plugin-camera',    
+    'org.apache.cordova.camera':'cordova-plugin-camera',
     'org.apache.cordova.console':'cordova-plugin-console',
     'org.apache.cordova.contacts':'cordova-plugin-contacts',
     'org.apache.cordova.device':'cordova-plugin-device',
@@ -20,7 +20,8 @@ var map = {
     'org.apache.cordova.vibration':'cordova-plugin-vibration',
     'org.apache.cordova.test-framework':'cordova-plugin-test-framework',
     'com.msopentech.websql' : 'cordova-plugin-websql',
-    'com.msopentech.indexeddb' : 'cordova-plugin-indexeddb'
+    'com.msopentech.indexeddb' : 'cordova-plugin-indexeddb',
+    'com.pbakondy.sim' : 'cordova-plugin-sim'
 }
 
 module.exports.oldToNew = map;
@@ -30,4 +31,4 @@ Object.keys(map).forEach(function(elem){
     reverseMap[map[elem]] = elem;
 })
 
-module.exports.newToOld = reverseMap; 
+module.exports.newToOld = reverseMap;
