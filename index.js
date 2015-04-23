@@ -21,7 +21,8 @@ var map = {
     'org.apache.cordova.test-framework':'cordova-plugin-test-framework',
     'com.msopentech.websql' : 'cordova-plugin-websql',
     'com.msopentech.indexeddb' : 'cordova-plugin-indexeddb',
-    'com.pbakondy.sim' : 'cordova-plugin-sim'
+    'com.pbakondy.sim' : 'cordova-plugin-sim',
+    'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability'
 }
 
 module.exports.oldToNew = map;
