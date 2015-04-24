@@ -22,7 +22,8 @@ var map = {
     'com.msopentech.websql' : 'cordova-plugin-websql',
     'com.msopentech.indexeddb' : 'cordova-plugin-indexeddb',
     'com.pbakondy.sim' : 'cordova-plugin-sim',
-    'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability'
+    'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability',
+    'org.adapt-it.cordova.fonts' : 'cordova-plugin-fonts'
 }
 
 module.exports.oldToNew = map;
