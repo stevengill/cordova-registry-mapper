@@ -43,6 +43,8 @@ var map = {
     'com.rjfun.cordova.sms' : 'cordova-plugin-sms',
     'com.rjfun.cordova.wifi' : 'cordova-plugin-wifi',
     'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability'
+    'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability',
+    'org.adapt-it.cordova.fonts' : 'cordova-plugin-fonts'
 }
 
 module.exports.oldToNew = map;
