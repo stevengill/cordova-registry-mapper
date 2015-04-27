@@ -43,7 +43,12 @@ var map = {
     'com.rjfun.cordova.sms' : 'cordova-plugin-sms',
     'com.rjfun.cordova.wifi' : 'cordova-plugin-wifi',
     'com.ohh2ahh.plugins.appavailability' : 'cordova-plugin-appavailability',
-    'org.adapt-it.cordova.fonts' : 'cordova-plugin-fonts'
+    'org.adapt-it.cordova.fonts' : 'cordova-plugin-fonts',
+    'de.martinreinhardt.cordova.plugins.barcodeScanner' : 'cordova-plugin-barcodescanner',
+    'de.martinreinhardt.cordova.plugins.urlhandler' : 'cordova-plugin-urlhandler',
+    'de.martinreinhardt.cordova.plugins.email' : 'cordova-plugin-email',
+    'de.martinreinhardt.cordova.plugins.certificates' : 'cordova-plugin-certificates',
+    'de.martinreinhardt.cordova.plugins.sqlite' : 'cordova-plugin-sqlite'
 }
 
 module.exports.oldToNew = map;
