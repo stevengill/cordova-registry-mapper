@@ -53,7 +53,12 @@ var map = {
     'de.martinreinhardt.cordova.plugins.urlhandler' : 'cordova-plugin-urlhandler',
     'de.martinreinhardt.cordova.plugins.email' : 'cordova-plugin-email',
     'de.martinreinhardt.cordova.plugins.certificates' : 'cordova-plugin-certificates',
-    'de.martinreinhardt.cordova.plugins.sqlite' : 'cordova-plugin-sqlite'
+    'de.martinreinhardt.cordova.plugins.sqlite' : 'cordova-plugin-sqlite',
+    'org.jboss.aerogear.cordova.push' : 'aerogear-cordova-push',
+    'org.jboss.aerogear.cordova.oauth2' : 'aerogear-cordova-oauth2',
+    'org.jboss.aerogear.cordova.geo' : 'aerogear-cordova-geo',
+    'org.jboss.aerogear.cordova.crypto' : 'aerogear-cordova-crypto',
+    'org.jboss.aerogaer.cordova.otp' : 'aerogear-cordova-otp'
 }
 
 module.exports.oldToNew = map;
