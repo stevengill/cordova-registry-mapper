@@ -55,6 +55,7 @@ var map = {
     'de.martinreinhardt.cordova.plugins.certificates' : 'cordova-plugin-certificates',
     'de.martinreinhardt.cordova.plugins.sqlite' : 'cordova-plugin-sqlite',
     'fr.smile.cordova.fileopener' : 'cordova-plugin-fileopener',
+    'org.smile.websqldatabase.initializer' : 'cordova-plugin-websqldatabase-initializer',
     'org.jboss.aerogear.cordova.push' : 'aerogear-cordova-push',
     'org.jboss.aerogear.cordova.oauth2' : 'aerogear-cordova-oauth2',
     'org.jboss.aerogear.cordova.geo' : 'aerogear-cordova-geo',
