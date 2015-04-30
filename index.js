@@ -58,7 +58,15 @@ var map = {
     'org.jboss.aerogear.cordova.oauth2' : 'aerogear-cordova-oauth2',
     'org.jboss.aerogear.cordova.geo' : 'aerogear-cordova-geo',
     'org.jboss.aerogear.cordova.crypto' : 'aerogear-cordova-crypto',
-    'org.jboss.aerogaer.cordova.otp' : 'aerogear-cordova-otp'
+    'org.jboss.aerogaer.cordova.otp' : 'aerogear-cordova-otp',
+    'uk.co.ilee.applewatch' : 'cordova-plugin-apple-watch',
+    'uk.co.ilee.directions' : 'cordova-plugin-directions',
+    'uk.co.ilee.gamecenter' : 'cordova-plugin-game-center',
+    'uk.co.ilee.jailbreakdetection' : 'cordova-plugin-jailbreak-detection',
+    'uk.co.ilee.nativetransitions' : 'cordova-plugin-native-transitions',
+    'uk.co.ilee.pedometer' : 'cordova-plugin-pedometer',
+    'uk.co.ilee.shake' : 'cordova-plugin-shake',
+    'uk.co.ilee.touchid' : 'cordova-plugin-touchid'
 }
 
 module.exports.oldToNew = map;
