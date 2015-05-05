@@ -70,7 +70,8 @@ var map = {
     'uk.co.ilee.pedometer' : 'cordova-plugin-pedometer',
     'uk.co.ilee.shake' : 'cordova-plugin-shake',
     'uk.co.ilee.touchid' : 'cordova-plugin-touchid',
-    'com.knowledgecode.cordova.websocket' : 'cordova-plugin-websocket'
+    'com.knowledgecode.cordova.websocket' : 'cordova-plugin-websocket',
+    'com.elixel.plugins.settings' : 'cordova-plugin-settings'
 }
 
 module.exports.oldToNew = map;
