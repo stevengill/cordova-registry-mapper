@@ -71,7 +71,8 @@ var map = {
     'uk.co.ilee.shake' : 'cordova-plugin-shake',
     'uk.co.ilee.touchid' : 'cordova-plugin-touchid',
     'com.knowledgecode.cordova.websocket' : 'cordova-plugin-websocket',
-    'com.elixel.plugins.settings' : 'cordova-plugin-settings'
+    'com.elixel.plugins.settings' : 'cordova-plugin-settings',
+    'com.cowbell.cordova.geofence' : 'cordova-plugin-geofence'
 }
 
 module.exports.oldToNew = map;
