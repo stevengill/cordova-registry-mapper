@@ -72,7 +72,8 @@ var map = {
     'uk.co.ilee.touchid' : 'cordova-plugin-touchid',
     'com.knowledgecode.cordova.websocket' : 'cordova-plugin-websocket',
     'com.elixel.plugins.settings' : 'cordova-plugin-settings',
-    'com.cowbell.cordova.geofence' : 'cordova-plugin-geofence'
+    'com.cowbell.cordova.geofence' : 'cordova-plugin-geofence',
+    'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation'
 }
 
 module.exports.oldToNew = map;
