@@ -74,7 +74,8 @@ var map = {
     'com.elixel.plugins.settings' : 'cordova-plugin-settings',
     'com.cowbell.cordova.geofence' : 'cordova-plugin-geofence',
     'com.blackberry.community.preventsleep' : 'cordova-plugin-preventsleep',
-    'com.blackberry.community.gamepad' : 'cordova-plugin-gamepad'
+    'com.blackberry.community.gamepad' : 'cordova-plugin-gamepad',
+    'com.blackberry.community.led' : 'cordova-plugin-led'
 }
 
 module.exports.oldToNew = map;
