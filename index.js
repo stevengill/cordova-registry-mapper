@@ -76,7 +76,8 @@ var map = {
     'com.blackberry.community.preventsleep' : 'cordova-plugin-preventsleep',
     'com.blackberry.community.gamepad' : 'cordova-plugin-gamepad',
     'com.blackberry.community.led' : 'cordova-plugin-led',
-    'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation'
+    'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
+    'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner'
 }
 
 module.exports.oldToNew = map;
