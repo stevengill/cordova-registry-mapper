@@ -77,7 +77,8 @@ var map = {
     'com.blackberry.community.gamepad' : 'cordova-plugin-gamepad',
     'com.blackberry.community.led' : 'cordova-plugin-led',
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
-    'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner'
+    'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
+    'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp'
 }
 
 module.exports.oldToNew = map;
