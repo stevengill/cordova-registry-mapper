@@ -78,7 +78,8 @@ var map = {
     'com.blackberry.community.led' : 'cordova-plugin-led',
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
-    'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp'
+    'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
+    'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser'
 }
 
 module.exports.oldToNew = map;
