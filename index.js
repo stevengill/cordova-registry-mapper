@@ -82,7 +82,10 @@ var map = {
     'com.blackberry.community.simplebeaconplugin' : 'cordova-plugin-bluetoothibeacon',
     'com.blackberry.community.simplebtsppplugin' : 'cordova-plugin-bluetoothspp',
     'com.blackberry.community.clipboard' : 'cordova-plugin-clipboard',
-    'com.blackberry.community.curl' : 'cordova-plugin-curl'
+    'com.blackberry.community.curl' : 'cordova-plugin-curl',
+    'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
+    'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
+    'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp'
 }
 
 module.exports.oldToNew = map;
