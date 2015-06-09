@@ -76,7 +76,13 @@ var map = {
     'com.blackberry.community.preventsleep' : 'cordova-plugin-preventsleep',
     'com.blackberry.community.gamepad' : 'cordova-plugin-gamepad',
     'com.blackberry.community.led' : 'cordova-plugin-led',
-    'com.blackberry.community.thumbnail' : 'cordova-plugin-thumbnail'
+    'com.blackberry.community.thumbnail' : 'cordova-plugin-thumbnail',
+    'com.blackberry.community.mediakeys' : 'cordova-plugin-mediakeys',
+    'com.blackberry.community.simplebtlehrplugin' : 'cordova-plugin-bluetoothheartmonitor',
+    'com.blackberry.community.simplebeaconplugin' : 'cordova-plugin-bluetoothibeacon',
+    'com.blackberry.community.simplebtsppplugin' : 'cordova-plugin-bluetoothspp',
+    'com.blackberry.community.clipboard' : 'cordova-plugin-clipboard',
+    'com.blackberry.community.curl' : 'cordova-plugin-curl'
 }
 
 module.exports.oldToNew = map;
