@@ -84,6 +84,7 @@ var map = {
     'com.blackberry.community.clipboard' : 'cordova-plugin-clipboard',
     'com.blackberry.community.curl' : 'cordova-plugin-curl',
     'com.blackberry.community.qt' : 'cordova-plugin-qtbridge',
+    'com.blackberry.community.upnp' : 'cordova-plugin-upnp',
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
