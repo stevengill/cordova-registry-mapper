@@ -86,6 +86,7 @@ var map = {
     'com.blackberry.community.qt' : 'cordova-plugin-qtbridge',
     'com.blackberry.community.upnp' : 'cordova-plugin-upnp',
     'com.blackberry.community.PasswordCrypto' : 'cordova-plugin-password-crypto',
+    'com.blackberry.community.deviceinfoplugin' : 'cordova-plugin-deviceinfo',
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
