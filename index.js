@@ -87,6 +87,7 @@ var map = {
     'com.blackberry.community.upnp' : 'cordova-plugin-upnp',
     'com.blackberry.community.PasswordCrypto' : 'cordova-plugin-password-crypto',
     'com.blackberry.community.deviceinfoplugin' : 'cordova-plugin-deviceinfo',
+    'com.blackberry.community.gsecrypto' : 'cordova-plugin-bb-crypto',
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
