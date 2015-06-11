@@ -93,7 +93,7 @@ var map = {
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
     'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser',
-	'gr.denton.photosphere' : 'cordova-plugin-panoramaviewer'
+    'gr.denton.photosphere' : 'cordova-plugin-panoramaviewer'
 }
 
 module.exports.oldToNew = map;
