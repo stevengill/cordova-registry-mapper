@@ -92,7 +92,8 @@ var map = {
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
-    'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser'
+    'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser',
+	'gr.denton.photosphere' : 'cordova-plugin-panoramaviewer'
 }
 
 module.exports.oldToNew = map;
