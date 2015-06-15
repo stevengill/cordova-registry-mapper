@@ -97,7 +97,8 @@ var map = {
     'com.bridge.open' : 'cordova-open',
     'com.bridge.safe' : 'cordova-safe',
     'com.disusered.open' : 'cordova-open',
-    'com.disusered.safe' : 'cordova-safe'
+    'com.disusered.safe' : 'cordova-safe',
+    'me.apla.cordova.app-preferences' : 'cordova-plugin-app-preferences'
 }
 
 module.exports.oldToNew = map;
