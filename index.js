@@ -100,7 +100,8 @@ var map = {
     'com.disusered.safe' : 'cordova-safe',
     'me.apla.cordova.app-preferences' : 'cordova-plugin-app-preferences',
     'com.konotor.cordova' : 'cordova-plugin-konotor',
-    'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc'
+    'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc',
+    'com.onesignal.plugins.onesignal' : 'onesignal-cordova-plugin'
 }
 
 module.exports.oldToNew = map;
