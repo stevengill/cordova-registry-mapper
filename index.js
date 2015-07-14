@@ -93,6 +93,8 @@ var map = {
     'com.blackberry.community.screendisplay' : 'cordova-plugin-screendisplay',
     'com.blackberry.community.messageplugin' : 'cordova-plugin-bb-messageretrieve',
     'com.blackberry.community.emailsenderplugin' : 'cordova-plugin-emailsender',
+    'com.blackberry.community.audiometadata' : 'cordova-plugin-audiometadata',
+    'com.blackberry.community.deviceemails' : 'cordova-plugin-deviceemails',
     'com.blackberry.app' : 'cordova-plugin-bb-app',
     'com.blackberry.bbm.platform' : 'cordova-plugin-bbm',
     'com.blackberry.connection' : 'cordova-plugin-bb-connection',
