@@ -98,6 +98,8 @@ var map = {
     'com.blackberry.community.audiorecorder' : 'cordova-plugin-audiorecorder',
     'com.blackberry.community.vibration' : 'cordova-plugin-vibrate-intense',
     'com.blackberry.community.SMSPlugin' : 'cordova-plugin-bb-sms',
+    'com.blackberry.community.extractZipFile' : 'cordova-plugin-bb-zip',
+    'com.blackberry.community.lowlatencyaudio' : 'cordova-plugin-bb-nativeaudio',
     'com.blackberry.app' : 'cordova-plugin-bb-app',
     'com.blackberry.bbm.platform' : 'cordova-plugin-bbm',
     'com.blackberry.connection' : 'cordova-plugin-bb-connection',
