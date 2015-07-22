@@ -140,7 +140,8 @@ var map = {
     'io.intercom.cordova' : 'cordova-plugin-intercom',
     'com.onesignal.plugins.onesignal' : 'onesignal-cordova-plugin',
     'com.danjarvis.document-contract': 'cordova-plugin-document-contract',
-    'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc'
+    'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc',
+    'com.mobileapptracking.matplugin' : 'cordova-plugin-tune'
 }
 
 module.exports.oldToNew = map;
