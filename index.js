@@ -141,7 +141,8 @@ var map = {
     'com.onesignal.plugins.onesignal' : 'onesignal-cordova-plugin',
     'com.danjarvis.document-contract': 'cordova-plugin-document-contract',
     'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc',
-    'com.mobileapptracking.matplugin' : 'cordova-plugin-tune'
+    'com.mobileapptracking.matplugin' : 'cordova-plugin-tune',
+    'com.marianhello.cordova.background-geolocation' : 'cordova-plugin-mauron85-background-geolocation'
 }
 
 module.exports.oldToNew = map;
