@@ -138,7 +138,8 @@ var map = {
     'me.apla.cordova.app-preferences' : 'cordova-plugin-app-preferences',
     'com.konotor.cordova' : 'cordova-plugin-konotor',
     'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc',
-    'io.intercom.cordova' : 'cordova-plugin-intercom'
+    'io.intercom.cordova' : 'cordova-plugin-intercom',
+    'com.onesignal.plugins.onesignal' : 'onesignal-cordova-plugin'
 }
 
 module.exports.oldToNew = map;
