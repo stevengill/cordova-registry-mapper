@@ -130,6 +130,7 @@ var map = {
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
     'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser',
     'gr.denton.photosphere' : 'cordova-plugin-panoramaviewer',
+    'nl.x-services.plugins.googleplus' : 'cordova-plugin-googleplus',
     'com.bridge.open' : 'cordova-open',
     'com.bridge.safe' : 'cordova-safe',
     'com.disusered.open' : 'cordova-open',
