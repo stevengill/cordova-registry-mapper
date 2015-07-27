@@ -143,7 +143,8 @@ var map = {
     'com.eface2face.iosrtc' : 'cordova-plugin-iosrtc',
     'com.mobileapptracking.matplugin' : 'cordova-plugin-tune',
     'com.marianhello.cordova.background-geolocation' : 'cordova-plugin-mauron85-background-geolocation',
-    'fr.louisbl.cordova.locationservices' : 'cordova-plugin-locationservices'
+    'fr.louisbl.cordova.locationservices' : 'cordova-plugin-locationservices',
+    'fr.louisbl.cordova.gpslocation' : 'cordova-plugin-gpslocation'
 }
 
 module.exports.oldToNew = map;
