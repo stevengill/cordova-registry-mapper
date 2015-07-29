@@ -144,7 +144,8 @@ var map = {
     'com.mobileapptracking.matplugin' : 'cordova-plugin-tune',
     'com.marianhello.cordova.background-geolocation' : 'cordova-plugin-mauron85-background-geolocation',
     'fr.louisbl.cordova.locationservices' : 'cordova-plugin-locationservices',
-    'fr.louisbl.cordova.gpslocation' : 'cordova-plugin-gpslocation'
+    'fr.louisbl.cordova.gpslocation' : 'cordova-plugin-gpslocation',
+    'com.hiliaox.weibo' : 'cordova-plugin-weibo'
 }
 
 module.exports.oldToNew = map;
