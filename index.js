@@ -133,6 +133,7 @@ var map = {
     'gr.denton.photosphere' : 'cordova-plugin-panoramaviewer',
     'nl.x-services.plugins.googleplus' : 'cordova-plugin-googleplus',
     'nl.x-services.plugins.insomnia' : 'cordova-plugin-insomnia',
+    'nl.x-services.plugins.toast' : 'cordova-plugin-x-toast',
     'com.bridge.open' : 'cordova-open',
     'com.bridge.safe' : 'cordova-safe',
     'com.disusered.open' : 'cordova-open',
