@@ -149,7 +149,11 @@ var map = {
     'fr.louisbl.cordova.locationservices' : 'cordova-plugin-locationservices',
     'fr.louisbl.cordova.gpslocation' : 'cordova-plugin-gpslocation',
     'com.hiliaox.weibo' : 'cordova-plugin-weibo',
-    'com.uxcam.cordova.plugin' : 'cordova-uxcam'
+    'com.uxcam.cordova.plugin' : 'cordova-uxcam',
+    'de.fastr.phonegap.plugins.downloader' : 'cordova-plugin-fastrde-downloader',
+    'de.fastr.phonegap.plugins.injectView' : 'cordova-plugin-fastrde-injectview',
+    'de.fastr.phonegap.plugins.CheckGPS' : 'cordova-plugin-fastrde-checkgps',
+    'de.fastr.phonegap.plugins.md5chksum' : ' cordova-plugin-fastrde-md5' 
 }
 
 module.exports.oldToNew = map;
