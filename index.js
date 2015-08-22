@@ -134,6 +134,7 @@ var map = {
     'nl.x-services.plugins.googleplus' : 'cordova-plugin-googleplus',
     'nl.x-services.plugins.insomnia' : 'cordova-plugin-insomnia',
     'nl.x-services.plugins.toast' : 'cordova-plugin-x-toast',
+    'nl.x-services.plugins.calendar' : 'cordova-plugin-calendar',
     'com.bridge.open' : 'cordova-open',
     'com.bridge.safe' : 'cordova-safe',
     'com.disusered.open' : 'cordova-open',
