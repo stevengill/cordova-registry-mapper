@@ -157,7 +157,8 @@ var map = {
     'de.fastr.phonegap.plugins.CheckGPS' : 'cordova-plugin-fastrde-checkgps',
     'de.fastr.phonegap.plugins.md5chksum' : ' cordova-plugin-fastrde-md5',
     'io.repro.cordova' : 'cordova-plugin-repro',
-    're.notifica.cordova': 'cordova-plugin-notificare-push'
+    're.notifica.cordova': 'cordova-plugin-notificare-push',
+    'com.megster.cordova.ble': 'cordova-plugin-ble-central'
 }
 
 module.exports.oldToNew = map;
