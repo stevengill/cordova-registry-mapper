@@ -158,7 +158,9 @@ var map = {
     'de.fastr.phonegap.plugins.md5chksum' : ' cordova-plugin-fastrde-md5',
     'io.repro.cordova' : 'cordova-plugin-repro',
     're.notifica.cordova': 'cordova-plugin-notificare-push',
-    'com.megster.cordova.ble': 'cordova-plugin-ble-central'
+    'com.megster.cordova.ble': 'cordova-plugin-ble-central',
+    'org.scriptotek.appinfo': 'cordova-plugin-appinfo',
+    'com.yezhiming.cordova.appinfo': 'cordova-plugin-appinfo'
 }
 
 module.exports.oldToNew = map;
