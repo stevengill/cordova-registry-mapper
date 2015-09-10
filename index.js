@@ -162,7 +162,9 @@ var map = {
     'cz.velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback',
     'cz.Velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback',
     'org.scriptotek.appinfo': 'cordova-plugin-appinfo',
-    'com.yezhiming.cordova.appinfo': 'cordova-plugin-appinfo'
+    'com.yezhiming.cordova.appinfo': 'cordova-plugin-appinfo',
+    'pl.makingwaves.estimotebeacons': 'cordova-plugin-estimote',
+    'com.evothings.ble': 'cordova-plugin-ble'
 }
 
 module.exports.oldToNew = map;
