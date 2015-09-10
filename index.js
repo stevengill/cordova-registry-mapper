@@ -160,7 +160,9 @@ var map = {
     're.notifica.cordova': 'cordova-plugin-notificare-push',
     'com.megster.cordova.ble': 'cordova-plugin-ble-central',
     'cz.velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback',
-    'cz.Velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback'
+    'cz.Velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback',
+    'org.scriptotek.appinfo': 'cordova-plugin-appinfo',
+    'com.yezhiming.cordova.appinfo': 'cordova-plugin-appinfo'
 }
 
 module.exports.oldToNew = map;
