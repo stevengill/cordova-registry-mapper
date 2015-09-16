@@ -164,7 +164,8 @@ var map = {
     'org.scriptotek.appinfo': 'cordova-plugin-appinfo',
     'com.yezhiming.cordova.appinfo': 'cordova-plugin-appinfo',
     'pl.makingwaves.estimotebeacons': 'cordova-plugin-estimote',
-    'com.evothings.ble': 'cordova-plugin-ble'
+    'com.evothings.ble': 'cordova-plugin-ble',
+    'com.appsee.plugin' : 'cordova-plugin-appsee'
 }
 
 module.exports.oldToNew = map;
