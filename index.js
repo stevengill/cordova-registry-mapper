@@ -131,6 +131,8 @@ var map = {
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
     'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser',
     'gr.denton.photosphere' : 'cordova-plugin-panoramaviewer',
+    'nl.x-services.plugins.actionsheet' : 'cordova-plugin-actionsheet',
+    'nl.x-services.plugins.socialsharing' : 'cordova-plugin-x-socialsharing',
     'nl.x-services.plugins.googleplus' : 'cordova-plugin-googleplus',
     'nl.x-services.plugins.insomnia' : 'cordova-plugin-insomnia',
     'nl.x-services.plugins.toast' : 'cordova-plugin-x-toast',
