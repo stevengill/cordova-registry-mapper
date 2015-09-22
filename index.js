@@ -168,7 +168,8 @@ var map = {
     'com.yezhiming.cordova.appinfo': 'cordova-plugin-appinfo',
     'pl.makingwaves.estimotebeacons': 'cordova-plugin-estimote',
     'com.evothings.ble': 'cordova-plugin-ble',
-    'com.appsee.plugin' : 'cordova-plugin-appsee'
+    'com.appsee.plugin' : 'cordova-plugin-appsee',
+    'am.armsoft.plugins.listpicker': 'cordova-plugin-listpicker'
 }
 
 module.exports.oldToNew = map;
