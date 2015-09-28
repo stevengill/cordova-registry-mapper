@@ -169,7 +169,8 @@ var map = {
     'pl.makingwaves.estimotebeacons': 'cordova-plugin-estimote',
     'com.evothings.ble': 'cordova-plugin-ble',
     'com.appsee.plugin' : 'cordova-plugin-appsee',
-    'am.armsoft.plugins.listpicker': 'cordova-plugin-listpicker'
+    'am.armsoft.plugins.listpicker': 'cordova-plugin-listpicker',
+    'com.pushbots.push': 'pushbots-cordova-plugin'
 }
 
 module.exports.oldToNew = map;
