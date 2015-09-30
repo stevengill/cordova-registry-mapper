@@ -170,7 +170,18 @@ var map = {
     'com.evothings.ble': 'cordova-plugin-ble',
     'com.appsee.plugin' : 'cordova-plugin-appsee',
     'am.armsoft.plugins.listpicker': 'cordova-plugin-listpicker',
-    'com.pushbots.push': 'pushbots-cordova-plugin'
+    'com.pushbots.push': 'pushbots-cordova-plugin',
+    'com.admob.google': 'cordova-admob',
+    'admob.ads.google': 'cordova-admob-ads',
+    'admob.google.plugin': 'admob-google',
+    'com.admob.admobads': 'admob-ads',
+    'com.connectivity.monitor': 'cordova-connectivity-monitor',
+    'com.ios.libgoogleadmobads': 'cordova-libgoogleadmobads',
+    'com.google.play.services': 'cordova-google-play-services',
+    'android.support.v13': 'cordova-android-support-v13',
+    'android.support.v4': 'cordova-android-support-v4',
+    'com.analytics.google': 'cordova-plugin-analytics',
+    'com.analytics.adid.google': 'cordova-plugin-analytics-adid'
 }
 
 module.exports.oldToNew = map;
