@@ -138,6 +138,7 @@ var map = {
     'nl.x-services.plugins.toast' : 'cordova-plugin-x-toast',
     'nl.x-services.plugins.calendar' : 'cordova-plugin-calendar',
     'nl.x-services.plugins.launchmyapp' : 'cordova-plugin-customurlscheme',
+    'nl.x-services.plugins.flashlight' : 'cordova-plugin-flashlight',
     'com.bridge.open' : 'cordova-open',
     'com.bridge.safe' : 'cordova-safe',
     'com.disusered.open' : 'cordova-open',
