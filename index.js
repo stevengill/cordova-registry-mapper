@@ -183,7 +183,8 @@ var map = {
     'android.support.v13': 'cordova-android-support-v13',
     'android.support.v4': 'cordova-android-support-v4',
     'com.analytics.google': 'cordova-plugin-analytics',
-    'com.analytics.adid.google': 'cordova-plugin-analytics-adid'
+    'com.analytics.adid.google': 'cordova-plugin-analytics-adid',
+    'com.chariotsolutions.nfc.plugin': 'phonegap-nfc'
 }
 
 module.exports.oldToNew = map;
