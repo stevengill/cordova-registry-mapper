@@ -164,6 +164,7 @@ var map = {
     're.notifica.cordova': 'cordova-plugin-notificare-push',
     'com.megster.cordova.ble': 'cordova-plugin-ble-central',
     'com.megster.cordova.bluetoothserial': 'cordova-plugin-bluetooth-serial',
+    'com.megster.cordova.rfduino': 'cordova-plugin-rfduino',
     'cz.velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback',
     'cz.Velda.cordova.plugin.devicefeedback': 'cordova-plugin-velda-devicefeedback',
     'org.scriptotek.appinfo': 'cordova-plugin-appinfo',
