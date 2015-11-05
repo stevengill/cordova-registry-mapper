@@ -16,7 +16,7 @@
   ],
   "author": "Steve Gill",
   "license": "Apache version 2.0",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^3.5.0"
   }
 }
