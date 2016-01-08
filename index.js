@@ -188,7 +188,8 @@ var map = {
     'com.chariotsolutions.nfc.plugin': 'phonegap-nfc',
     'com.samz.mixpanel': 'cordova-plugin-mixpanel',
     'de.appplant.cordova.common.RegisterUserNotificationSettings': 'cordova-plugin-registerusernotificationsettings',
-    'plugin.google.maps': 'cordova-plugin-googlemaps'
+    'plugin.google.maps': 'cordova-plugin-googlemaps',
+    'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt'
 };
 
 module.exports.oldToNew = map;
