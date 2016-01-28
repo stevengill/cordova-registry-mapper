@@ -189,7 +189,8 @@ var map = {
     'com.samz.mixpanel': 'cordova-plugin-mixpanel',
     'de.appplant.cordova.common.RegisterUserNotificationSettings': 'cordova-plugin-registerusernotificationsettings',
     'plugin.google.maps': 'cordova-plugin-googlemaps',
-    'xu.li.cordova.wechat': 'cordova-plugin-wechat'
+    'xu.li.cordova.wechat': 'cordova-plugin-wechat',
+    'es.keensoft.fullscreenimage': 'cordova-plugin-fullscreenimage'
 };
 
 module.exports.oldToNew = map;
