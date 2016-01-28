@@ -190,7 +190,8 @@ var map = {
     'de.appplant.cordova.common.RegisterUserNotificationSettings': 'cordova-plugin-registerusernotificationsettings',
     'plugin.google.maps': 'cordova-plugin-googlemaps',
     'xu.li.cordova.wechat': 'cordova-plugin-wechat',
-    'es.keensoft.fullscreenimage': 'cordova-plugin-fullscreenimage'
+    'es.keensoft.fullscreenimage': 'cordova-plugin-fullscreenimage',
+    'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt'
 };
 
 module.exports.oldToNew = map;
