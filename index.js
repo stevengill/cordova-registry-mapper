@@ -191,7 +191,8 @@ var map = {
     'plugin.google.maps': 'cordova-plugin-googlemaps',
     'xu.li.cordova.wechat': 'cordova-plugin-wechat',
     'es.keensoft.fullscreenimage': 'cordova-plugin-fullscreenimage',
-    'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt'
+    'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt',
+    'com.pushwoosh.plugins.pushwoosh' : 'pushwoosh-cordova-plugin'
 };
 
 module.exports.oldToNew = map;
