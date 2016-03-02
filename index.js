@@ -192,7 +192,8 @@ var map = {
     'xu.li.cordova.wechat': 'cordova-plugin-wechat',
     'es.keensoft.fullscreenimage': 'cordova-plugin-fullscreenimage',
     'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt',
-    'com.pushwoosh.plugins.pushwoosh' : 'pushwoosh-cordova-plugin'
+    'com.pushwoosh.plugins.pushwoosh' : 'pushwoosh-cordova-plugin',
+    'com.pushlink.cordova': 'pushlink-cordova-plugin'
 };
 
 module.exports.oldToNew = map;
