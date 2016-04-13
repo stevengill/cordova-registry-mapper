@@ -193,7 +193,8 @@ var map = {
     'es.keensoft.fullscreenimage': 'cordova-plugin-fullscreenimage',
     'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt',
     'com.pushwoosh.plugins.pushwoosh' : 'pushwoosh-cordova-plugin',
-    'com.pushlink.cordova': 'pushlink-cordova-plugin'
+    'com.pushlink.cordova': 'pushlink-cordova-plugin',
+    'org.cloudsky.cordovaplugins.zbar': 'cordova-plugin-cszbar'
 };
 
 module.exports.oldToNew = map;
