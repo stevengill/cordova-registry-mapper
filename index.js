@@ -194,7 +194,8 @@ var map = {
     'com.arcoirislabs.plugin.mqtt' : 'cordova-plugin-mqtt',
     'com.pushwoosh.plugins.pushwoosh' : 'pushwoosh-cordova-plugin',
     'com.pushlink.cordova': 'pushlink-cordova-plugin',
-    'org.cloudsky.cordovaplugins.zbar': 'cordova-plugin-cszbar'
+    'org.cloudsky.cordovaplugins.zbar': 'cordova-plugin-cszbar',
+    'org.binarypark.cordova.plugins.version': 'cordova_app_version_plugin'
 };
 
 module.exports.oldToNew = map;
