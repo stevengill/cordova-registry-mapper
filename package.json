@@ -15,7 +15,7 @@
     "plugins"
   ],
   "author": "Steve Gill",
-  "license": "Apache version 2.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "tape": "^3.5.0"
   }
